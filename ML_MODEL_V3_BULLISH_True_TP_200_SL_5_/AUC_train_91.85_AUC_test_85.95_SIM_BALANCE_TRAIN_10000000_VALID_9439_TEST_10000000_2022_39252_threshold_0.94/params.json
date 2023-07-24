@@ -1,0 +1,1 @@
+{'booster': 'gbtree', 'colsample_bytree': 0.55, 'eta': 0.1, 'eval_metric': 'auc', 'gamma': 0.55, 'max_depth': 5, 'min_child_weight': 2.0, 'nthread': 4, 'objective': 'binary:logistic', 'scale_pos_weight': 342.19282633550444, 'seed': 314159265, 'silent': 1, 'subsample': 0.7000000000000001, 'tree_method': 'hist'}
